@@ -3,7 +3,7 @@
 #~~~~> SI TIENE CONOCIMIENTO Y NO ES UN LAMMER, NO MODIFIQUE EL ESCRITO
 #~~~~> Solo para estudios
 
- #Created by 𝓢𝓾𝓰𝓸𝓢𝓬𝓻𝓲𝓹
+ # Created by 𝓢𝓾𝓰𝓸𝓢𝓬𝓻𝓲𝓹 and 𝓚𝓮𝓷𝔂𝓱
  
 use Socket;
 use strict;
